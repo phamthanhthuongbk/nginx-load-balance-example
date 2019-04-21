@@ -9,5 +9,5 @@ https://kipalog.com/posts/Su-dung-NGINX-nhu-mot-Load-Balancer
 
 # Test 
 - in server1: http://localhost:3001/
-- in server2: http://localhost:3001/
+- in server2: http://localhost:4001/
 - in server-master (load balance): http://localhost:5001/
